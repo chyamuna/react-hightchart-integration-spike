@@ -1,0 +1,1 @@
+# react-hightchart-integration-spike
