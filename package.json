@@ -1,0 +1,19 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highcharts": "^5.0.9",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-highcharts": "^11.5.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
